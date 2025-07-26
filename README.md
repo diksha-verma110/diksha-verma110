@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![logo](https://github.com/diksha-verma110/diksha-verma110/blob/main/github%20profile%20banner.png)
 <h1 align="center">Hi 👋, I'm Diksha Verma</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">An aspiring Web-developer from India</h3>
 <img align="right" width="350" src="https://media1.tenor.com/m/IF2JdxzmyN4AAAAC/coding-girl.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha-verma110&label=Profile%20views&color=0e75b6&style=flat" alt="diksha-verma110" /> </p>
